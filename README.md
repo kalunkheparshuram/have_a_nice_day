@@ -9,17 +9,16 @@ Welcome to **Have a Nice Day**, a personal toolkit designed to automate essentia
 
 This repository will grow to include modular tools for each step in the cybersecurity process. Each script lives in its own directory and follows a structured output format.
 
-```
 root/
 ├── domain-enumerator/
-│   ├── domain\_enum.py
+│   ├── domain_enum.py
 │   └── README.md
 ├── future-tools/
 │   ├── port-scanner/
 │   ├── brute-forcer/
 │   └── ...
 └── results/
-````
+
 
 ---
 
