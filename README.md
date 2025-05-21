@@ -5,7 +5,7 @@ Welcome to **Have a Nice Day**, a personal toolkit designed to automate essentia
 ## 📁 Project Structure
 
 This repository will grow to include modular tools for each step in the cybersecurity process. Each script lives in its own directory and follows a structured output format.
-
+```
 root/
 ├── domain-enumerator/
 │   ├── domain_enum.py
@@ -15,6 +15,7 @@ root/
 │   ├── brute-forcer/
 │   └── ...
 └── results/
+```
 
 ## 📌 Tool #1: Domain Enumerator – Subdomain & IP Scanner
 
@@ -55,13 +56,14 @@ Enter the main domain (e.g. example.com): example.com
 ```
 
 Your results will be saved in:
-
+```
 example.com/
 └── 1. Reconnaissance/
     ├── results.csv
     ├── 200.csv
     ├── 403.csv
     ├── No Response.csv
+```
 
 ## 📦 Output Format
 Each CSV includes:
